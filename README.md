@@ -17,4 +17,4 @@ This is a HTML5 application, built with [Brunch](http://brunch.io) and [AMP](htt
     * [Brunch site](http://brunch.io), [Getting started guide](https://github.com/brunch/brunch-guide#readme)
 
 * Be careful:
-    * Before
+    * Before making any changes, please checkout the AMP documentation first. Its awesomeness comes with a huge resposability (:
